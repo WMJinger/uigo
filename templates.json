@@ -1,1 +1,12 @@
-{"tpl":{"lessModel":{"url":"https://github.com/WMJinger/webModel.git","branch":"master"}}}
+{
+  "tpl": {
+    "lessModel": {
+      "url": "https://github.com/WMJinger/webModel.git",
+      "branch": "master"
+    },
+    "ydModel": {
+      "url": "https://github.com/WMJinger/ydcommon.git",
+      "branch": "master"
+    }
+  }
+}
